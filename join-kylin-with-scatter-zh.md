@@ -3,9 +3,9 @@
 
 ## 获得测试网账户
 
-1. 申请账户，在浏览器地址栏中输入：http://13.125.53.113/create_account?new_account_name，new_account_name换成你需要的账户，合法账户是12位长度，合法字符是a-z和1-5。注册失败可能是该用户名已经存在。成功后返回账户名和公私钥，记录下公私钥。
+1. 申请账户，在浏览器地址栏中输入：http://13.125.53.113/create_account?new_account_name ，new_account_name换成你需要的账户，合法账户是12位长度，合法字符是a-z和1-5。注册失败可能是该用户名已经存在。成功后返回账户名和公私钥，记录下公私钥。
    
-2. 获得测试网EOS余额，在浏览器地址栏输入：http://13.125.53.113/get_token?your_account_name，your_account_name换成你的账户，可以获得100测试EOS。如果需要量比较大请联系管理员，不要重复多次调用这个地址。
+2. 获得测试网EOS余额，在浏览器地址栏输入：http://13.125.53.113/get_token?your_account_name ，your_account_name换成你的账户，可以获得100测试EOS。如果需要量比较大请联系管理员，不要重复多次调用这个地址。
 
 ## 配置scatter
 
