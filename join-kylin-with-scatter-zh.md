@@ -32,5 +32,5 @@ Chain ID:5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191
 
 ## 发送交易
 
-现在可以在 https://www.cryptokylin.io/ 中利用scatter签名发起各种交易，后续在测试网中测试的dapp也可以使用scatter接入。
+现在可以在 https://tools.cryptokylin.io 中利用scatter签名发起各种交易，后续在测试网中测试的dapp也可以使用scatter接入。
 
